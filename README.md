@@ -61,18 +61,33 @@ import pandas as pd
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
 
+# DATA.HEAD():
+
 ![Screenshot 2025-04-19 170620](https://github.com/user-attachments/assets/25835f21-a73f-4da3-99e7-1802d6db3024)
 
+# DATA.INF0()
 
 ![Screenshot 2025-04-19 170628](https://github.com/user-attachments/assets/89842ef4-0e1c-462f-9436-5a1164260777)
+
+# DATA.ISNULL().SUM()
 
 
 ![Screenshot 2025-04-19 170637](https://github.com/user-attachments/assets/597e7391-7507-460d-9bc2-8c527086a91d)
 
+# PLOT USING ELBOW METHOD
+
 ![Screenshot 2025-04-19 170731](https://github.com/user-attachments/assets/eb4ae127-392f-4426-b9f4-3868078fbc5c)
+
+# K-MEANS CLUSTERING
+
+![Screenshot 2025-04-20 081338](https://github.com/user-attachments/assets/d94d5b2a-3f2e-4765-a337-294a3ba32a54)
+
+
+# Y_PRED ARRAY
 
 ![Screenshot 2025-04-19 170759](https://github.com/user-attachments/assets/2128ed5d-b37c-49ed-b14a-b527e789dad6)
 
+# CUSTOMER SEGMENT
 
 ![Screenshot 2025-04-19 170808](https://github.com/user-attachments/assets/5e700e97-fe67-469e-8c3c-b034a6c61480)
 
